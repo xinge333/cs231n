@@ -1,6 +1,7 @@
 ##ignore this file##
 /assignment1/cs231n/datasets/
-/assignment2/cs231n/datasets/
+/assignment2/cs231n/datasets
+assignment2/cs231n/datasets
 /assignment3/cs231n/datasets/
 
 # compression file
