@@ -1,1 +1,5 @@
-finished the assignment1-3 in recent two months, if you have some problems, just leave me a note:492140281@qq.com
+CS231n Convolutional Neural Networks for Visual Recognition
+Spring 2018 Assignments
+Assignment #1: Image Classification, kNN, SVM, Softmax, Neural Network
+Assignment #2: Fully-Connected Nets, Batch Normalization, Dropout, Convolutional Nets
+Assignment #3: Image Captioning with Vanilla RNNs, Image Captioning with LSTMs, Network Visualization, Style Transfer, Generative Adversarial Networks
